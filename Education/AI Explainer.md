@@ -1,6 +1,6 @@
 # Purpose
 Experiment to generate explanations of a topic using rosenshine's principles of instruction. Prompting technique Role, and uses of xml tags
-Prompt adapted to Reasoning models (Tested on Gemini 4.5)
+Prompt adapted to Reasoning models (Tested on Gemini 2.5)
 # Tasks
 - Retrieval practice generator
 - 
